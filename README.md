@@ -1,6 +1,7 @@
 # Calculator 
 
 A basic calculator built with C# in Visual Studio 2022 using Windows Forms on the .NET Framework.
+Made by [Ruben Roy](https://www.ruben-roy.com/).
 
 <p align="center">
   <img src="img/image.png" height="500">
